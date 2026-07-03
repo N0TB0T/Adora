@@ -1,0 +1,43 @@
+{
+  "name": "adora-device",
+  "version": "0.2.0",
+  "description": "Shared Arduino library for Adora robotic vehicles \u2014 board profiles, motor drivers, LED, battery, button, sound",
+  "keywords": [
+    "robotics",
+    "esp8266",
+    "esp32",
+    "motor-driver",
+    "neopixel",
+    "tank-steering",
+    "board-profile"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "N0TB0T",
+      "url": "https://github.com/N0TB0T"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/N0TB0T/Adora26.git"
+  },
+  "frameworks": "arduino",
+  "platforms": [
+    "espressif8266",
+    "espressif32",
+    "native"
+  ],
+  "build": {},
+  "export": {
+    "exclude": [
+      "test",
+      ".pio",
+      "*.exe",
+      "LIBRARY_DESIGN.md",
+      "BOARD_SPEC.md",
+      "I2S_PIN_CONFLICTS.md",
+      "platformio.ini"
+    ]
+  }
+}
