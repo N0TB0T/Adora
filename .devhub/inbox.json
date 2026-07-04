@@ -1,0 +1,15 @@
+{
+  "inbox": [
+    {
+      "id": "ext-log-mr5xjksw-ns7h",
+      "kind": "note",
+      "category": "feedback",
+      "prio": "N",
+      "title": "Banana",
+      "body": "",
+      "source": "log",
+      "at": "2026-07-04T05:36:44.816Z",
+      "status": "open"
+    }
+  ]
+}
