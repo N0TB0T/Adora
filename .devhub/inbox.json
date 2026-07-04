@@ -10,6 +10,22 @@
       "source": "log",
       "at": "2026-07-04T05:36:44.816Z",
       "status": "open"
+    },
+    {
+      "id": "ext-log-mr6c8sdu-op6r",
+      "kind": "note",
+      "category": "feedback",
+      "prio": "N",
+      "tags": [
+        "markdown",
+        "notizen",
+        "format"
+      ],
+      "title": "Minimales Markdown-Format für Notizen",
+      "body": "Ai hat den Titel erstellt, aber den Rest des Textes gelöscht. Es gibt auch keine Titelzeile. Können wir das minimale Markdown-Format von Notir verwenden und `#` für den Titel nutzen?",
+      "source": "log",
+      "at": "2026-07-04T12:28:15.666Z",
+      "status": "open"
     }
   ]
 }
