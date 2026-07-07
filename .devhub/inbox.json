@@ -15,22 +15,6 @@
       "source": "log",
       "at": "2026-07-04T12:28:15.666Z",
       "status": "done"
-    },
-    {
-      "id": "ext-log-mr8w5pra-g2el",
-      "kind": "note",
-      "category": "feedback",
-      "prio": "N",
-      "tags": [
-        "playwright",
-        "test",
-        "fallback"
-      ],
-      "title": "Playwright Fallback-Picker testen",
-      "body": "",
-      "source": "log",
-      "at": "2026-07-06T07:21:16.966Z",
-      "status": "done"
     }
   ]
 }
