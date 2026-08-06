@@ -16,6 +16,27 @@
       "at": "2026-07-04T12:28:15.666Z",
       "status": "done",
       "code": "0077"
+    },
+    {
+      "id": "ext-session-paymore-n3-upload-selftest",
+      "kind": "note",
+      "category": "feedback",
+      "prio": "N",
+      "tags": [],
+      "title": "Selbsttest Bild-Upload",
+      "body": "",
+      "source": "session:paymore",
+      "sourceId": "n3-upload-selftest",
+      "at": "2026-08-06T14:54:19.770Z",
+      "status": "open",
+      "code": "00D8",
+      "attachments": [
+        {
+          "id": "a:mshmzqum:gr36g",
+          "filename": "test.png",
+          "mime": "image/png"
+        }
+      ]
     }
   ]
 }
